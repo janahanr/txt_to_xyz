@@ -1,7 +1,7 @@
 import math
 
 coord= open("data.xyz", "w") #this is the xyz file to hold the data
-data= open("dataset_400199707.txt", "r")
+data= open("dataset.txt", "r")
 
 xCtr = 0.2 * 20 #20 bc we have 20 measurements 
 xVal = 0 #keep track of x value
